@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ParkMe</string>
+    <string name="Card">Credit or Debit Card</string>
+    <string name="Date">MM/YY</string>
+    <string name="cvv">123</string>
+    <string name="No">xxxx xxxx xxxx xxxx</string>
+    <string name="Submit">Submit</string>
+    <string name="Show">Show</string>
+    <string name="Update">Update</string>
+    <string name="Delete">Delete</string>
+</resources>

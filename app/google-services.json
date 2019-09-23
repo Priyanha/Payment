@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "project_number": "917558062383",
+    "firebase_url": "https://parkme-c2546.firebaseio.com",
+    "project_id": "parkme-c2546",
+    "storage_bucket": "parkme-c2546.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917558062383:android:83972a55eb69cd764205da",
+        "android_client_info": {
+          "package_name": "com.example.mylocation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "917558062383-0qq1pt726kkoc8k35bsotqpm3ienj8mi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mylocation",
+            "certificate_hash": "e295a4ebe4bef4921502e35b9538e8e56e391b14"
+          }
+        },
+        {
+          "client_id": "917558062383-3e9k0fh2oloh3p246t25j94m7m5ona91.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAY8wMCu-s_k1rIuIRz2PamZp7-YjbMM8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "917558062383-3e9k0fh2oloh3p246t25j94m7m5ona91.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917558062383:android:0c33fbc42dddd7e64205da",
+        "android_client_info": {
+          "package_name": "com.example.newparkmelogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "917558062383-mjrcqu134jpf7hq8d5aqo0j7tkd9i0pn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.newparkmelogin",
+            "certificate_hash": "8fa599e90ff811fee2101ee6b2a5e0aaed6abb48"
+          }
+        },
+        {
+          "client_id": "917558062383-3e9k0fh2oloh3p246t25j94m7m5ona91.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAY8wMCu-s_k1rIuIRz2PamZp7-YjbMM8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "917558062383-3e9k0fh2oloh3p246t25j94m7m5ona91.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917558062383:android:eabe34d6e0a0673f4205da",
+        "android_client_info": {
+          "package_name": "com.example.parkmepay_10b"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "917558062383-t0t1ja55cp3r4a2lrp27f38bas7im9a7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.parkmepay_10b",
+            "certificate_hash": "a6fb5941553faa9b9c6588b80854eaa62225e044"
+          }
+        },
+        {
+          "client_id": "917558062383-3e9k0fh2oloh3p246t25j94m7m5ona91.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAY8wMCu-s_k1rIuIRz2PamZp7-YjbMM8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "917558062383-3e9k0fh2oloh3p246t25j94m7m5ona91.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
